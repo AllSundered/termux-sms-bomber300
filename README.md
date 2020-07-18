@@ -18,9 +18,11 @@
 https://github.com/Ivan-Hacker-700/SMS-Bomber-300-Free  
 
 Открываем папку с клонированным репозиторием: 
+
 6. cd SMS-Bomber-300-Free  
 
 И установим нужные для работы библиотеки: 
+
 7. pip install -r requirements.txt  
 
 Осталось только запустить: 
