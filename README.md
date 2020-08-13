@@ -27,3 +27,7 @@ https://github.com/Ivan-Hacker-700/SMS-Bomber-300-Free
 
 Осталось только запустить: 
 python SMSBomber300.py
+
+
+Рекомендуем:
+ <a href="https://github.com/mishakorzik/mishakorzik.menu.io">mishakorzik.github.io</a>
